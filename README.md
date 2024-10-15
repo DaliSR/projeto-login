@@ -4,7 +4,7 @@
 
 **Front-end:** HTML, CSS, Media Query CSS
 
-:open_file_folder:[Acesso ao projeto]( https://dalilassr.github.io/projeto-login/)
+:open_file_folder:[Acesso ao projeto]( https://dalisr.github.io/projeto-login/)
 
 <h1 align="left"> Tela Desktop </h1>
 
